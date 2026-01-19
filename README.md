@@ -42,7 +42,7 @@ Check `preview.png` to see the main screen of the Food App.
 - Design reference for developers
 
 ## Designed By
-Sara Khan
+Sara Hafeez
 
 ##Design Link
 https://www.figma.com/design/Jlfaj60pCtIKnhzPtquChB/Untitled?node-id=3-3&t=pL5Ik5pxgilPnlSM-1
